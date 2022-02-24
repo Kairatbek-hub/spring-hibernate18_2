@@ -9,7 +9,7 @@
         <setting name="validation-enabled" value="true" />
         <setting name="provider-name" value="Hibernate" />
         <datasource-mapping>
-          <factory-entry name="spring_hibernate" />
+          <factory-entry name="spring_hibernate" value="73f39823-f2b9-4de8-a5e2-d27cd4f7f3e5" />
         </datasource-mapping>
         <naming-strategy-map />
       </configuration>
